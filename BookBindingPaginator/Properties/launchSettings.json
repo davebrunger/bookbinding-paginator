@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BookBindingPaginator": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\Users\\N19420\\Downloads\\learn-bookbinding-starter-guide.pdf\" -o Paginated -s 4"
+    }
+  }
+}
